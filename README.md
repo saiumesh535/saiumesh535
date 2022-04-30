@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![saiumesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiumesh535)](https://github.com/saiumesh535/github-readme-stats)
+
 <!--
 **saiumesh535/saiumesh535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
