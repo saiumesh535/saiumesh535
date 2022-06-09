@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![saiumesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiumesh535&theme=gruvbox)](https://github.com/saiumesh535/github-readme-stats)
+![saiumesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiumesh535&theme=gruvbox)](https://github.com/saiumesh535/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiumesh535&langs_count=8&theme=gruvbox)](https://github.com/saiumesh535/github-readme-stats)]
 
